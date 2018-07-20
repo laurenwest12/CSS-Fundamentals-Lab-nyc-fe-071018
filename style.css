@@ -22,19 +22,15 @@ figcaption {
   text-align: center;
   font-size: 10px;
 }
-<<<<<<< HEAD
 
 #featured-property p {
  text-align: center;
  width: 800px;}
 
-#details {
+#details div {
   display: block;
-}
-
-div {
+  float: left;
   background-color: gray;
   width: 25%;
 }
-=======
->>>>>>> 9fc4e4dcf22813e278e1bb9368a8be413a7968dc
+
